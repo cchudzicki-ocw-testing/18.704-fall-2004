@@ -5,7 +5,12 @@ description: 'Three problems assigned from the course textbook: "Rational Points
   an asterisk are more challenging exercises that are optional but not required'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/656d3e769248da921093982abde6f807_hw8_probs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw8_probs.pdf
+type: OCWFile
 uid: 656d3e76-9248-da92-1093-982abde6f807
 ---
