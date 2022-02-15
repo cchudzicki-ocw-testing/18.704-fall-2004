@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: asarina.pdf
-type: OCWFile
 uid: beec44d3-a418-8b71-9577-39be1d574e90
 ---

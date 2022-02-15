@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture3.pdf
-type: OCWFile
 uid: 5003c3a1-2004-857f-5466-51966877fe01
 ---

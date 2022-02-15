@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw7_sols.pdf
-type: OCWFile
 uid: 93447fc5-f3fd-ee73-1ecb-e4d20a989bd0
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture30.pdf
-type: OCWFile
 uid: 5f4ec727-f551-9235-7d6d-34c90fd69bc7
 ---

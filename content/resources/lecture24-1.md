@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture24.pdf
-type: OCWFile
 uid: 2d40b712-2375-47cf-45ee-fcce22ec09f5
 ---

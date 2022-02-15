@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture23.pdf
-type: OCWFile
 uid: 9362f56f-67f2-42ee-ac73-e592c56df326
 ---

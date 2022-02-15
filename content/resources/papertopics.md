@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: papertopics.pdf
-type: OCWFile
 uid: 90c1fad5-4593-eace-7a57-40f84db5e1cb
 ---

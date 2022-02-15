@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: haraksingh.pdf
-type: OCWFile
 uid: da5a7328-4ad1-75ec-be2d-1780e68310c2
 ---

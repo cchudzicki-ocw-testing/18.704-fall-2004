@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture_advice.pdf
-type: OCWFile
 uid: 1545b2b1-f9b6-4df5-d0e3-5dc0fd22bde4
 ---

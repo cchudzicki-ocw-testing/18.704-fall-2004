@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture27.pdf
-type: OCWFile
 uid: 9e1736f0-917e-ab26-117b-b8b98c411d13
 ---

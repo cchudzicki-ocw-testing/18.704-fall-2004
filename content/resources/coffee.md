@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: coffee.pdf
-type: OCWFile
 uid: bd628cbd-b85d-ad31-2ef4-6c870a53640f
 ---

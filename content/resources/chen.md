@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: chen.pdf
-type: OCWFile
 uid: 62c15bba-b62a-b2bc-6ebd-79c7c09871c4
 ---

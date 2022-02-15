@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw8_probs.pdf
-type: OCWFile
 uid: 656d3e76-9248-da92-1093-982abde6f807
 ---

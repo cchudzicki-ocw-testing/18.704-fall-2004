@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw10_probs.pdf
-type: OCWFile
 uid: 9fa609bb-d226-384b-3a57-f9a997203cfb
 ---

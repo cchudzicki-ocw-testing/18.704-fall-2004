@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: stoica.pdf
-type: OCWFile
 uid: ab114fde-1fdf-e889-20be-2a6118b81e39
 ---

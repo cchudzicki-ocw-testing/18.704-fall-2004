@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lugo.pdf
-type: OCWFile
 uid: 8e59e1b1-9f6a-a24f-a60a-9851178dc607
 ---

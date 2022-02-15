@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: hasse_theo_ratio.pdf
-type: OCWFile
 uid: 1ae4ca94-400b-745d-e9ce-d399c261ffef
 ---

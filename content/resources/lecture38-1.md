@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lecture38.pdf
-type: OCWFile
 uid: d0316feb-a373-a730-d2e7-41a1f30271d7
 ---
