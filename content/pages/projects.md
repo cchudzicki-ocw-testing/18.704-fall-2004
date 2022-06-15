@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: These are directions and possible project topics suggested to students.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
